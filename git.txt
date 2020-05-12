@@ -1,0 +1,6 @@
+1. git add <filename> 
+	prep your files to be committed
+2. git commit -m "message"
+	ready your commit and tell yourself what the commit is about 
+3. git push origin master 
+	push your local files to your online account
